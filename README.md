@@ -14,12 +14,10 @@
 - 🔭 I’m currently working on [YouTube](https://youtube.com/channel/UC7jw9rM4ovrWgnJIzKmJ5Fw)
 
 - ⚡ LiFe Status : **A short life**
+- 👃 : **Fucking World**
+#
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact With Me:</h3>
 <p align="left">
 <a href="https://fb.com/mojib.rsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mojib.rsm" height="30" width="40" /></a>
 <a href="https://instagram.com/mojib.rsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mojib.rsm" height="30" width="40" /></a>
