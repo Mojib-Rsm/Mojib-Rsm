@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on [YouTube](https://youtube.com/channel/UC7jw9rM4ovrWgnJIzKmJ5Fw)
 
 - ⚡ LiFe Status : **A short life**
-- 👃 : **Fucking World**
+- Fuck : **Fucking World😍**
 #
 
 <h3 align="left">Contact With Me:</h3>
