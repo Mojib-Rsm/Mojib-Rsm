@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on [FACEBOOK](Https://www.Facebook.com/mojiib.rsm)
 
- 🔭 I’m currently working on [INSTAGRAM](Https://www.instagram.com/mojibrsm)
 - 🌱 I’m currently learning **Python**
 
 - 🔭 I’m currently working on [YouTube](https://youtube.com/channel/@mojibrsm)
