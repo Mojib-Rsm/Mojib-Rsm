@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on [FACEBOOK](Https://www.Facebook.com/mojiib.rsm)
 
- 🔭 I’m currently working on [INSTAGRAM](Https://www.instagram.com/mojib_rsm)
+ 🔭 I’m currently working on [INSTAGRAM](Https://www.instagram.com/mojibrsm)
 - 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on [YouTube](https://youtube.com/channel/UC7jw9rM4ovrWgnJIzKmJ5Fw)
+- 🔭 I’m currently working on [YouTube](https://youtube.com/channel/@mojibrsm)
 
 - ⚡ LiFe Status : **A short life**
 - Fuck : **Fucking World😍**
