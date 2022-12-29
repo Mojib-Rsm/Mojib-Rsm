@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://fb.com/mojiib.rsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mojib.rsm" height="30" width="40" /></a>
 <a href="https://instagram.com/mojib_rsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mojib.rsm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/uc7jw9rm4ovrwgnjizkmj5fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc7jw9rm4ovrwgnjizkmj5fw" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/@mojibrsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc7jw9rm4ovrwgnjizkmj5fw" height="30" width="40" /></a>
 <a href="/https://www.facebook.com/mojiib.rsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.facebook.com/mojibrsm" height="30" width="40" /></a>
 </p>
 
