@@ -1,6 +1,6 @@
 [![Braydon's GitHub Banner](https://mojibrsm.com/wp-content/uploads/2023/01/images-3.jpg)](https://mojibrsm.com)
 
-[![Facebook Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Facebook Badge](https://scontent.fdac33-1.fna.fbcdn.net/v/t1.6435-9/58978526_10158354585751729_7411073224387067904_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF6ZLIjhv56bfYJrHKlPKzxpcmsfKqKSfGlyax8qopJ8f_4MasYHhg7Fof_lZCDudQSllVv1zQ3JKTlga1Een-V&_nc_ohc=vKLzoAN3D5oAX-Z1B4W&_nc_ht=scontent.fdac33-1.fna&oh=00_AfBuLFk1q66jIfb6A32PWOKm4QHfE58HsTpQgcWBknW6Jg&oe=63EE18D5)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
