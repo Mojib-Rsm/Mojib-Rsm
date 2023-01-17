@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Mojibrsm-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/MoJiiB.RsM)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Mojibrsm-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mojibrsm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mojibrsm/)
-[![ Badge](https://img.shields.io/badge/instagram-Mojibrsm-informational?style=flat&logo=instagram&logoColor=white&color=black)](https://instagram.com/mojibrsm)
+[![Instagram Badge](https://img.shields.io/badge/instagram-Mojibrsm-informational?style=flat&logo=instagram&logoColor=white&color=black)](https://instagram.com/mojibrsm)
 
 Hey there 👋
 
@@ -16,11 +16,9 @@ Want to know more about me? [Check out my portfolio.](https://mojibrsm.com/owner
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogfolio V3 - Update 2022](https://braydoncoyer.dev/blog/blogfolio-v3-update-2022)
-- [How To Create an Animated Loading Spinner with Tailwind CSS](https://braydoncoyer.dev/blog/how-to-create-an-animated-loading-spinner-with-tailwind-css)
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
+- [Free SMS Sender and SMS Bomber](https://t.me/MrTools_BD/155)
+- [Mr Sms Bomber | Best Sms Bomber](https://mojibrsm.com/2022/05/31/hot-mr-sms-bomber-best-sms-bomber/)
+- [মোবাইলের জন্য সেরা ভিডিও এডিটিং অ্যাপ](https://mojibrsm.com/2023/01/13/best-video-editing-apps-for-mobile-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -29,19 +27,19 @@ Want to know more about me? [Check out my portfolio.](https://mojibrsm.com/owner
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/Mojib-rsm">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Mojibrsm&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
+<a href="https://github.com/Mojib-rsm/bomb">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/Mojib-rsm/setup">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
