@@ -1,5 +1,29 @@
-[![Braydon's GitHub Banner](https://mojibrsm.com/wp-content/uploads/2023/01/images-3.jpg)](https://mojibrsm.com)
 
+<meta name="keywords" content="Mr, Mojib-rsm, Mr Bomber, Mojib Rsm, Mojib github, Mojibrsm,sms bomber">
+<meta name="description" content="Iam a small Web Developer">
+<div align="center">
+<img align="center" alt="" src="images/aru_github_picture.png">
+</div>
+
+
+[![Mojib Rsm's GitHub Banner](https://mojibrsm.com/wp-content/uploads/2023/01/images-3.jpg)](https://mojibrsm.com)
+
+<div align="left">
+<br>
+<div align="center">
+<b> 🖥️ Iam a Student and A part time Programmer</b>
+<br>
+<br>
+</div>
+<ul>
+<li>🇧🇩 Resident of Bangladesh</li>
+<li>😇 Muslim </li>
+<li>😪 Love Sleeping </li>
+<li>💔 Born Single </li>
+<li>☹️ Aim: Become a Web Developer</li>
+</ul>
+<br>
+</div>
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Mojibrsm-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/MoJiiB.RsM)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Mojibrsm-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mojibrsm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mojibrsm/)
