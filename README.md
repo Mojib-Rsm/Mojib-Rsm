@@ -23,32 +23,12 @@ Want to know more about me? [Check out my portfolio.](https://mojibrsm.com/owner
 
 <br>
 
-## 📌 Pinned Repositories
+## 🌐 WebSite
+- [Tech News](https://mojibrsm.com)
+- [Best Sms Bomber](https://bomb.mojibrsm.com//)
+- [Free SMS](https://sms.mojibrsm.com//)
+<!-- BLOG-POST-LIST:END -->
 
-<br>
-
-<a href="https://github.com/Mojib-rsm">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Mojibrsm&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Mojib-rsm/bomb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Mojib-rsm/setup">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Mojib-rsm&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -128,14 +108,8 @@ Want to know more about me? [Check out my portfolio.](https://mojibrsm.com/owner
 
 > I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
-> <p>- Dwight Schrute</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
+> ### Check out Some Content Written by Mojib Rsm (ME) Hiimself!
 >
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+> Check out my [Content](https://mojibrsm.com/author/mojibrsm/)!
