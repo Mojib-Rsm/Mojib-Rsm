@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Mojibrsm-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/MoJiiB.RsM)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Mojibrsm-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mojibrsm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mojibrsm/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/mojibrsm)
+[![CodePen Badge](https://img.shields.io/badge/instagram-Mojibrsm-informational?style=flat&logo=instagram&logoColor=white&color=black)](https://instagram.com/mojibrsm)
 
 Hey there 👋
 
