@@ -1,7 +1,7 @@
 [![Braydon's GitHub Banner](https://mojibrsm.com/wp-content/uploads/2023/01/images-3.jpg)](https://mojibrsm.com)
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Mojibrsm-blue)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Mojibrsm-blue)](https://www.facebook.com/MoJiiB.RsM)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Mojibrsm-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
