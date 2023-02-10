@@ -6,7 +6,7 @@
 </div>
 
 
-[![Mojib Rsm's GitHub Banner](https://o.remove.bg/downloads/83c051cf-0f81-4811-8a4c-ac26ff5950f2/mojibrsm-removebg-preview.png)](https://mojibrsm.com)
+[![Mojib Rsm's GitHub Banner](https://github.com/Mojib-Rsm/Mojib-Rsm/blob/main/Mojib%20rsm%20-%20git.png)](https://mojibrsm.com)
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Mojibrsm-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/MoJiiB.RsM)
