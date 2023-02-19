@@ -18,7 +18,7 @@ Hey there 👋
 
 I’m Mojib Rsm, a Junior Web Developer, creative Website and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://mojibrsm.com/owner)
+Want to know more about me? [Check out my portfolio.](https://mojibrsm.com)
 
 ## 📝 Latest Blog Posts
 
