@@ -34,6 +34,7 @@ Want to know more about me? [Check out my portfolio.](https://mojibrsm.com)
 
 ## 🌐 WebSite
 - [Tech News](https://mojibrsm.com)
+- [Oftern News](https://oftern.com)
 - [Best Sms Bomber](https://bomb.mojibrsm.com//)
 - [Free SMS](https://sms.mojibrsm.com//)
 <!-- BLOG-POST-LIST:END -->
