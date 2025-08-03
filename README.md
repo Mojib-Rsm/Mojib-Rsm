@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Mojib-Rsm/Mojib-Rsm/blob/main/assets/banner.png" alt="Mojib Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/c9f25313-31ee-4ea8-8568-d84fae6c0261" alt="Mojib Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Mojibur Rahman 👋</h1>
@@ -75,7 +75,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mojib-Rsm&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojib-Rsm&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
