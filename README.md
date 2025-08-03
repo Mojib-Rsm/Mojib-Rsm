@@ -64,8 +64,6 @@
 ### 📷 Profile Photo
 
 <p align="center">
-  <img width="450" height="570" alt="Mojibur Rahman" src="https://github.com/user-attachments/assets/0cd62459-b05a-41f4-9942-b890d211d79b" />
-
   <img src="https://github.com/user-attachments/assets/0cd62459-b05a-41f4-9942-b890d211d79b" alt="Mojibur Rahman" width="180px" style="border-radius: 50%;" />
 </p>
 
