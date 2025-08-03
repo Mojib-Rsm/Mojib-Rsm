@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+<img width="904" height="591" alt="image" src="https://github.com/user-attachments/assets/70d013c6-4de5-4f3f-abb2-ddfc73917d9d" /><!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/Mojib-Rsm/Mojib-Rsm/blob/main/assets/banner.png" alt="Mojib Banner" width="100%" />
 </p>
@@ -64,7 +64,8 @@
 ### 📷 Profile Photo
 
 <p align="center">
-  <img src="https://github.com/Mojib-Rsm/Mojib-Rsm/blob/main/assets/profile.jpg" alt="Mojibur Rahman" width="180px" style="border-radius: 50%;" />
+  <img width="904" height="591" alt="image" src="https://github.com/user-attachments/assets/5c6e2ed5-e427-4222-9c64-f6c105c7815d" />
+<img src="https://github.com/user-attachments/assets/5c6e2ed5-e427-4222-9c64-f6c105c7815d" alt="Mojibur Rahman" width="180px" style="border-radius: 50%;" />
 </p>
 
 ---
