@@ -69,7 +69,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mojib Rsm** (also known as **Mojibur Rahman**) — a Bangladeshi **digital entrepreneur, technology professional, and digital creator** passionate about building practical digital products and technology-driven solutions.
+I'm **Mojib Rsm** (also known as **Mojibur Rahman**), a Bangladeshi **digital entrepreneur, technology professional, and digital creator** passionate about building practical digital products and technology-driven solutions.
 
 My work spans **web development, digital entrepreneurship, website management, SEO, digital publishing, online tools, automation, and creative digital projects**. I enjoy transforming ideas into useful online platforms and developing solutions that address real-world needs.
 
