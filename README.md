@@ -1,10 +1,3 @@
-<!--
-  ============================================================
-  Mojib Rsm — GitHub Profile README
-  Professional Digital Entrepreneur & Technology Professional
-  ============================================================
--->
-
 <div align="center">
 
 <!-- Hero Banner -->
@@ -72,7 +65,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mojib Rsm** (also known as **Mojibur Rahman**) — a Bangladeshi **digital entrepreneur, technology professional, and digital creator** passionate about building practical digital products and technology-driven solutions.
+I'm **Mojib Rsm** (also known as **Mojibur Rahman**) - a Bangladeshi **digital entrepreneur, technology professional, and digital creator** passionate about building practical digital products and technology-driven solutions.
 
 My work spans **web development, digital entrepreneurship, website management, SEO, digital publishing, online tools, automation, and creative digital projects**. I enjoy transforming ideas into useful online platforms and developing solutions that address real-world needs.
 
@@ -88,7 +81,7 @@ I am the founder of **[TotthoHub](https://totthohub.com)** and a technology spec
 | 🎨 **Creative Technology** | UI design, digital branding, content creation, visual communication |
 | 🤖 **AI Integration** | AI-powered applications and Gemini API integrations |
 | 🤝 **Leadership & Community** | Community initiatives, collaboration, technology-driven development |
-| 🇧🇩 **Based in** | Ramu, Cox's Bazar, Bangladesh |
+| 🇧🇩 **Based in** | Bangladesh |
 
 > **My vision:** Build useful digital products, strengthen online experiences, and create long-term value through technology.
 
@@ -257,7 +250,7 @@ I'm open to **professional networking, technology discussions, collaborations**,
 
 **🌐 Website:** [mojibrsm.com](https://mojibrsm.com) &nbsp;·&nbsp;
 **📧 Email:** [mojibrsm@gmail.com](mailto:mojibrsm@gmail.com) &nbsp;·&nbsp;
-**📍 Location:** Ramu, Cox's Bazar, Bangladesh 🇧🇩
+**📍 Location:** Bangladesh
 
 </div>
 
