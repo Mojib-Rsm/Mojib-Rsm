@@ -16,8 +16,8 @@
 
 **Building Digital Experiences. Creating Practical Solutions.**
 
-<a href="https://mojib.me">
-  <img src="https://img.shields.io/badge/Portfolio-mojib.me-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<a href="https://mojibrsm.com">
+  <img src="https://img.shields.io/badge/Portfolio-mojibrsm.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://totthohub.com">
   <img src="https://img.shields.io/badge/Founder-TotthoHub-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TotthoHub" />
@@ -28,6 +28,9 @@
 
 <a href="mailto:mojibrsm@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/mojibrsm">
+  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://facebook.com/MoJiiB.RsM">
   <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
@@ -47,19 +50,19 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Mojib-Rsm/image/refs/heads/main/mojib-hero.webp" alt="Mojib Rsm — Professional Portfolio Hero Portrait" width="100%" />
+      <img src="https://raw.githubusercontent.com/Mojib-Rsm/image/refs/heads/main/formal.png" alt="Mojibur Rahman — Formal Professional Portrait" width="180" style="border-radius: 12px;" />
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Mojib-Rsm/image/refs/heads/main/formal.png" alt="Mojibur Rahman — Formal Professional Portrait" width="100%" />
+      <img src="https://github.com/Mojib-Rsm/Mojib-Rsm/blob/main/mojib%20rsm%20in%20working%20mode.jpg?raw=true" alt="Mojib Rsm — Working Mode" width="180" style="border-radius: 12px;" />
     </td>
   </tr>
   <tr>
-    <td align="center"><i>Portfolio Hero</i></td>
     <td align="center"><i>Formal Professional Portrait</i></td>
+    <td align="center"><i>Working Mode</i></td>
   </tr>
 </table>
 
-<a href="https://mojib.me">🌐 Explore My Portfolio</a>
+<a href="https://mojibrsm.com">🌐 Explore My Portfolio</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/Mojib-Rsm">💻 Explore My Repositories</a>
 
@@ -73,7 +76,7 @@ I'm **Mojib Rsm** (also known as **Mojibur Rahman**) — a Bangladeshi **digital
 
 My work spans **web development, digital entrepreneurship, website management, SEO, digital publishing, online tools, automation, and creative digital projects**. I enjoy transforming ideas into useful online platforms and developing solutions that address real-world needs.
 
-I am the founder of **[TotthoHub](https://totthohub.com)** and **[Oftern](https://oftern.com)**, and I specialize in WordPress development, AI integration, and digital marketing.
+I am the founder of **[TotthoHub](https://totthohub.com)** and a technology specialist focusing on WordPress development, AI integration, and digital marketing.
 
 | | |
 |---|---|
@@ -101,21 +104,21 @@ I am the founder of **[TotthoHub](https://totthohub.com)** and **[Oftern](https:
       <a href="https://totthohub.com"><b>Visit Website →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Oftern</h3>
-      <p>A technology-focused digital brand exploring web solutions, digital services, and practical technology resources.</p>
-      <a href="https://oftern.com"><b>Visit Website →</b></a>
+      <h3>🩸 RoktoDao (TotthoHub Blood)</h3>
+      <p>A blood donation and donor connection initiative intended to make finding blood donors easier.</p>
+      <a href="https://roktodao.bartanow.com/"><b>Visit Website →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩸 TotthoHub Blood</h3>
-      <p>A blood donation and donor connection initiative intended to make finding blood donors easier.</p>
-      <a href="https://blood.totthohub.com"><b>Visit Website →</b></a>
+      <h3>🛠️ OFT Tools (TotthoHub Tools)</h3>
+      <p>A digital utilities project focused on online tools, service workflows, and automation.</p>
+      <a href="https://tools.bartanow.com/"><b>Explore Tools →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ TotthoHub Tools</h3>
-      <p>A digital utilities project focused on online tools, service workflows, and automation.</p>
-      <a href="https://tools.totthohub.com"><b>Explore Tools →</b></a>
+      <h3>📰 BartaNow</h3>
+      <p>Bangla digital news publishing project featuring custom themes and modern web standards.</p>
+      <a href="https://bartanow.com"><b>Visit Website →</b></a>
     </td>
   </tr>
 </table>
@@ -127,14 +130,13 @@ I am the founder of **[TotthoHub](https://totthohub.com)** and **[Oftern](https:
 | Project | Description | Link |
 |---|---|---|
 | **TotthoHub** | Digital information, knowledge, and online resources | [Website](https://totthohub.com) |
-| **Oftern** | Technology and digital solutions | [Website](https://oftern.com) |
-| **Oftern Shop** | Online shop and e-commerce project | [Website](https://shop.oftern.com) |
+| **Oftern Shop** | Online shop and e-commerce project (React, Firebase) | [Website](#) |
 | **BartaNow** | Bangla digital news publishing project | [Domain](https://bartanow.com) |
-| **TotthoHub Blood** | Blood donation and donor connection initiative | [Website](https://blood.totthohub.com) |
-| **TotthoHub Tools** | Online utilities and digital workflows | [Website](https://tools.totthohub.com) |
-| **OFT Tools** | Telegram-based tools and automation | [GitHub Repo](https://github.com/Mojib-Rsm/OFT-Tools) |
-| **Ershad's Travel Diary** | Travel blog website project | [Website](https://ershad.oftern.com) |
-| **M.R Computer** | Local computer, printing, and digital services | [Portfolio](https://mojib.me) |
+| **RoktoDao** | Blood donation and donor connection initiative (Next.js) | [Website](https://roktodao.bartanow.com/) |
+| **OFT Tools** | Telegram-based tools and automation (Next.js) | [Website](https://tools.bartanow.com/) |
+| **Bulk SMS** | Platform for sending bulk SMS marketing campaigns (Laravel) | Private |
+| **BMI Calculator** | Simple and fast BMI calculator app | [Website](#) |
+| **Portfolio Website** | Modern, responsive portfolio website | [Website](https://mojibrsm.com) |
 
 > *Some projects may be under development, inactive, or subject to changes in availability.*
 
@@ -149,7 +151,7 @@ I am the founder of **[TotthoHub](https://totthohub.com)** and **[Oftern](https:
 
 ### 🗄️ Databases, APIs & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,linux,git,github,vscode" alt="MySQL, SQLite, Firebase, Linux, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,linux,git,github,vscode,androidstudio" alt="MySQL, SQLite, Firebase, Linux, Git, GitHub, VS Code, Android Studio" />
 </p>
 
 ### 🎨 Design & Digital Tools
@@ -184,7 +186,7 @@ I am the founder of **[TotthoHub](https://totthohub.com)** and **[Oftern](https:
 
 <br /><br />
 
-<a href="https://mojib.me"><b>View Portfolio & Project Details →</b></a>
+<a href="https://mojibrsm.com"><b>View Portfolio & Project Details →</b></a>
 
 </div>
 
@@ -225,29 +227,7 @@ I am the founder of **[TotthoHub](https://totthohub.com)** and **[Oftern](https:
 I share practical knowledge about technology, websites, digital services, and online growth through my platforms:
 
 - 📚 [**TotthoHub**](https://totthohub.com) — Digital information & resources
-- ⚡ [**Oftern**](https://oftern.com) — Technology & digital solutions
-
-### 📖 Featured Articles
-- [How to Improve Website SEO](https://oftern.com/seo-guide)
-- [How to Build a Website Using a Mobile Phone](https://oftern.com/mobile-web-create)
-- [WordPress vs Laravel: Which Is Better?](https://oftern.com/wordpress-vs-laravel)
-
-> *The above links are retained from my earlier profile and may need updating if the original articles have moved.*
-
----
-
-## 🛠️ Tech Stack Snapshot
-
-```yaml
-Frontend:    HTML5 · CSS3 · JavaScript · React · Next.js · Bootstrap · Tailwind CSS
-Backend:     PHP · Laravel · Node.js · Express.js
-CMS:         WordPress
-Database:    MySQL · SQLite · Firebase
-DevOps:      Linux · Git · GitHub · VPS · Hosting Management
-Design:      Figma · Adobe Photoshop
-AI & APIs:   Gemini API · REST APIs · AI Integrations
-Marketing:   Technical SEO · Digital Marketing · Content Strategy
-```
+- 📰 [**BartaNow**](https://bartanow.com) — Bangla digital news
 
 ---
 
@@ -257,11 +237,14 @@ I'm open to **professional networking, technology discussions, collaborations**,
 
 <div align="center">
 
-<a href="https://mojib.me">
+<a href="https://mojibrsm.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:mojibrsm@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/mojibrsm">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://facebook.com/MoJiiB.RsM">
   <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -269,52 +252,14 @@ I'm open to **professional networking, technology discussions, collaborations**,
 <a href="https://wa.me/8801601519007">
   <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-<a href="https://github.com/Mojib-Rsm">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 <br /><br />
 
-**🌐 Website:** [mojib.me](https://mojib.me) &nbsp;·&nbsp;
+**🌐 Website:** [mojibrsm.com](https://mojibrsm.com) &nbsp;·&nbsp;
 **📧 Email:** [mojibrsm@gmail.com](mailto:mojibrsm@gmail.com) &nbsp;·&nbsp;
 **📍 Location:** Ramu, Cox's Bazar, Bangladesh 🇧🇩
 
 </div>
-
----
-
-## 🔍 SEO & Metadata (from `layout.tsx`)
-
-This profile / website is optimized with:
-
-| Property | Value |
-|---|---|
-| **Canonical Base URL** | `https://www.mojib.me` |
-| **Title Template** | `%s \| Mojib Rsm` |
-| **Job Title** | Founder, AI Specialist & Digital Marketer |
-| **Organization** | Oftern |
-| **Google AdSense** | `ca-pub-8850298223242719` |
-| **Structured Data** | Schema.org `Person` JSON-LD |
-| **Primary Keywords** | Mojib Rsm, WordPress Developer Bangladesh, AI Specialist, Digital Marketer, SEO Expert |
-
-<details>
-<summary>📋 <b>View JSON-LD Structured Data</b></summary>
-
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Mojib Rsm",
-  "url": "https://mojib.me",
-  "jobTitle": "Founder, AI Specialist & Digital Marketer",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Oftern"
-  }
-}
-```
-
-</details>
 
 ---
 
@@ -332,6 +277,6 @@ If you find something useful, consider giving the repository a **⭐ star** — 
 
 <br /><br />
 
-<i>© 2025 Mojib Rsm · TotthoHub · Oftern</i>
+<i>© 2025 Mojib Rsm · TotthoHub</i>
 
 </div>
